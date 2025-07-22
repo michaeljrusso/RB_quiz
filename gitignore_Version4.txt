@@ -1,0 +1,9 @@
+# Node modules and build output
+node_modules/
+.next/
+out/
+dist/
+coverage/
+.env
+.DS_Store
+pnpm-lock.yaml
